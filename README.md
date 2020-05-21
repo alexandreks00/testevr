@@ -1,1 +1,1 @@
-# testevr
+# Para este teste foi utilizado a gem rest-client ao invés da httparty

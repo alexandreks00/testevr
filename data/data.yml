@@ -1,0 +1,10 @@
+cep_valido: ["04553012/json", "04313100/json"]
+cep_invalido: ["0455301/json", "0431310/json"]
+url: "https://viacep.com.br/ws/"
+  
+# 200: OK - Basically self-explanitory, the request went okay.
+# 400:  Requisição inválida
+# 401: Unauthorized - Authentication credentials were invalid.
+# 403: Forbidden - The resource requested is not accessible
+# 404: Not Found - The resource doesn’t exist on the server.
+# 500 Servidor
